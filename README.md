@@ -1,4 +1,4 @@
-# SerenityOS
+# Serenity OS
 
 Graphical Unix-like operating system for 64-bit x86, Arm, and RISC-V computers.
 
